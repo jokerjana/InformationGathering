@@ -25,15 +25,15 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### whois.com :
 
-![whois](img/ss1.png)
+<img width="857" height="750" alt="Screenshot 2025-11-14 133830" src="https://github.com/user-attachments/assets/8c0947ba-66f3-4c7d-aea4-2e93fcb82440" />
 
 ### iplocator :
 
-![iplocator](img/ss2.png)
+<img width="792" height="775" alt="Screenshot 2025-11-14 140846" src="https://github.com/user-attachments/assets/4852575f-9bb4-4948-a539-f38309f10184" />
 
 ### webarchive :
 
-![webarchive](img/ss3.png)
+<img width="1156" height="731" alt="Screenshot 2025-11-14 134650" src="https://github.com/user-attachments/assets/a42579e9-cf34-420e-9b21-cb06f8f9437f" />
 
 ### nmap :
 
@@ -57,11 +57,11 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### UDP traceroute :
 
-![UDP](img/ss9.png)
+<img width="970" height="332" alt="Screenshot 2025-11-14 140938" src="https://github.com/user-attachments/assets/da6ae627-5f1e-478f-9d9e-e818da77a9f3" />
 
 ### ICMP traceroute :
 
-![ICMP](img/ss10.png)
+<img width="974" height="573" alt="Screenshot 2025-11-14 140952" src="https://github.com/user-attachments/assets/e2d96b79-bd1d-4daf-b418-4643aeee2c2f" />
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
